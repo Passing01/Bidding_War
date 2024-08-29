@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item: one
+  buyer: one
+  seller: one
+  final_price: 9.99
+  payment_status: MyString
+  delivery_status: MyString
+
+two:
+  item: two
+  buyer: two
+  seller: two
+  final_price: 9.99
+  payment_status: MyString
+  delivery_status: MyString
